@@ -43,7 +43,7 @@ Data cleaning was performed to handle missing values, remove inconsistencies, an
 
 - **Features Used**: Manufacturing Year, Brand, Vehicle Type, Odometer, Fuel Type, Airbags, Capacity, Gear Type.  
 - **Algorithms Tried**: Linear Regression, Random Forest, XGBoost.  
-- **Best Model**: XGBoost with **MAE of 6455.239682** and **R² of 0.435644**.  
+- **Best Model**: XGBoost with **MAE of (6455.239682)** and **R² of (0.435644)**.  
  
 
 ## How to Run  
