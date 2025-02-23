@@ -43,13 +43,8 @@ Data cleaning was performed to handle missing values, remove inconsistencies, an
 
 - **Features Used**: Manufacturing Year, Brand, Vehicle Type, Odometer, Fuel Type, Airbags, Capacity, Gear Type.  
 - **Algorithms Tried**: Linear Regression, Random Forest, XGBoost.  
-- **Best Model**: Random Forest with **MAE of X** and **R² of Y**.  
-
-### **Car Type Classification**  
-
-- **Features Used**: Manufacturing Year, Brand, Fuel Type, Capacity, Cylinder Count.  
-- **Algorithms Tried**: Logistic Regression, SVM, Decision Trees.  
-- **Best Model**: SVM with an accuracy of **Z%**.  
+- **Best Model**: XGBoost with **MAE of 6455.239682** and **R² of 0.435644**.  
+ 
 
 ## How to Run  
 
